@@ -1,0 +1,25 @@
+.card{
+    border:rgb(110, 109, 109) solid 0.5px;
+    border-radius: 15px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 20px;
+    padding: 20px;
+}
+.card-container{
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+    padding-left:5%; 
+}
+@media (max-width:400px) {
+    .card-container{
+        display: block;
+        width:100%;
+        padding-left: 0%;
+    }
+    .card{
+        width: 70%;
+    }
+    
+}

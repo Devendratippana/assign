@@ -1,0 +1,16 @@
+.nav-bar{
+    display:flex;
+    padding-left: 5%;
+    border-bottom:0.2px solid rgb(140, 137, 137) ;
+}
+.menu-items h1{
+    color: blue;
+    font-size: 20px;
+}
+.menu-items p{
+    color: blue;
+    font-size: 15px;
+}
+.img-logo{
+    height: 70px;
+}

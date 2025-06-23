@@ -1,0 +1,17 @@
+.avaible-container{
+    background-color: blue;
+    height:150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    border-radius: 30px;
+
+}
+.button-ele{
+    background-color: rgb(224, 111, 69);
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}

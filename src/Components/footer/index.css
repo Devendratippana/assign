@@ -1,0 +1,29 @@
+.footer-card{
+    background-color: rgb(29, 26, 35);
+    color: white;
+    padding: 20px;
+    padding-top: 30px;
+}
+
+.footer-card p{
+    color: rgb(120, 123, 123);
+    font-size: 15px;
+}
+
+.footer-card .hover:hover{
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.footer-mid{
+    text-align: center;
+}
+
+.ele{
+    display: flex;
+    justify-content: space-evenly;
+}
+.disclaimer{
+    text-align: center;
+}

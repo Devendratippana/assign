@@ -1,0 +1,31 @@
+.access-head{
+    border:1px solid blue;
+    color: blue;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 22px;
+}
+.item{
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin: 20px;
+    padding:5px;
+    border-radius: 30px;
+
+}
+.item{
+    display: flex;
+    justify-content: center;
+}
+
+.item:hover{
+    width: 90%;
+    transition: 1ms;
+}
+.para{
+    font-size: 10px;
+    color: rgb(88, 88, 223);
+    text-align: center;
+}

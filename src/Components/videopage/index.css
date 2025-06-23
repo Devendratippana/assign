@@ -1,0 +1,26 @@
+.text{
+    color: rgb(18, 18, 125) ;
+    font-size: medium;
+    text-align: center;
+    padding-top: 10%;
+}
+.text p{
+    color: rgb(78, 78, 216);
+    font-size: 15px;
+    text-align: center; 
+}
+.heading{
+    background-color: rgb(56, 56, 232);
+    color: white;
+    font-size: 10px;
+    border-radius:20px ;
+    margin-left: 25%;
+    width:50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+
+}
