@@ -5,7 +5,7 @@ import Footer from "./Components/footer/Footer"
 import Navbar from "./Components/navbar/Navbar"
 import Success from "./Components/success/Success"
 import Videosection from "./Components/videopage/Videosection"
-import './App.css'
+import './app.css'
 
 
 function App() {
